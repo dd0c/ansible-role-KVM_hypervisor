@@ -1,2 +1,2 @@
-# KVM hypervisor
-Install of a hypervisor
+# KVM hypervisor ansible role
+Install of a kvm hypervisor.
